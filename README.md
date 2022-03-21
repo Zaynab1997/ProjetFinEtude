@@ -5,5 +5,3 @@ Ce Repertoire contient:
 2. Udacity code
 3. code application DNN  et Summit
 4. Summit Decentralisé ROS
-5. Application traffic signs
-6. Turtlebot avec Vision
